@@ -1,4 +1,4 @@
-baseURL = "https://codeystein.github./the-net-blog/"
+baseURL = "https://the-net-blog.netlify.app"
 title = "The Net Blog"
 
 theme = "fuji"
