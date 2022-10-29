@@ -6,6 +6,10 @@ tags = ['open-source', 'explained']
 draft = true
 +++
 
+![What Is Open-Source A Simple Introduction](https://res.cloudinary.com/practicaldev/image/fetch/s--hU0iTueZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/trvbkfz4x1qoutdh65zm.png)
+Open-source is a very important topic that every software engineer should know about. By the end of reading this post, you'll know what the popular term open-source means, potentially start using open-source software and understand the importance of open-source.
+<!--more-->
+
 ## Table Of Contents
 1. [The Basics](#the-basics)
 2. [Why Open Source](#why-open-source)
@@ -15,10 +19,10 @@ draft = true
 
 
 ## The basics
-Let's start with what the actual defenition is of open-source, basiclly when something is open-source it means that *anyone* can see the code that makes that product, and anyone can contribute to it aswell. Anyone can see the code, modify, and inspect the code. 
+Let's start with what the actual defenition is of open-source, basically when something is open-source it means that *anyone* can see the code that makes that product, and anyone can contribute to it as well. Anyone can see the code, modify, and inspect the code. 
 
 
-**Actual Picutre of an Open Source User:**
+**Actual Picture of an Open Source User:**
 
 ![Picture Of Open Source User](https://media.giphy.com/media/Vp3ftHKvKpASA/giphy.gif)
 
@@ -29,8 +33,8 @@ Let's start with what the actual defenition is of open-source, basiclly when som
 
 *BTW: this website is open-source so feel free to contribute to it! You don't need to know how to code, even a simple typo fix can help!*
 
-## What is wrong with closed software (propietary software)
-First of all, you have *no idea* how much data they are stealing from you, and how much they know about you. Since the code is not avaiblable to the public security bugs (and other bugs aswell) might go un-noticed for a long time which can lead to very security hazardous bugs being abused.
+## What is wrong with closed software (proprietary software)
+First of all, you have *no idea* how much data they are stealing from you, and how much they know about you. Since the code is not available to the public security bugs (and other bugs as well) might go un-noticed for a long time which can lead to very security hazardous bugs being abused.
 
 ## Popular Open Source Software:
 So you want to start using open source software? Well here are a few software that can help you get started!
@@ -39,8 +43,8 @@ So you want to start using open source software? Well here are a few software th
 * [Gimp - Powerful Photo Editing Tool](https://www.gimp.org/)
 
 
-# Like this post? Watch more!
-I appriciate you spending your time reading this post, if you'd like to read more here you go:
+## Like this post? Watch more!
+I appreciate you spending your time reading this post, if you'd like to read more here you go:
 
 [Why I chose Hugo (and why you should too)](https://the-net-blog.netlify.app/post/why-i-chose-hugo/)
 
