@@ -3,7 +3,7 @@ title = "What Is Open Source, a simple introduction"
 description = "Simple introduction so you can understand the term open-source, the pros cons and if you should actually contribute."
 date = 2022-10-28T10:52:13-06:00
 tags = ['open-source', 'explained']
-draft = true
+draft = false
 +++
 
 ![What Is Open-Source A Simple Introduction](https://res.cloudinary.com/practicaldev/image/fetch/s--hU0iTueZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/trvbkfz4x1qoutdh65zm.png)
