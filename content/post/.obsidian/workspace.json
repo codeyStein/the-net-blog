@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what-is-open-source.md",
+                "file": "get-started-with-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what-is-open-source.md",
+                "file": "get-started-with-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "what-is-open-source.md",
+                "file": "get-started-with-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what-is-open-source.md"
+                "file": "get-started-with-git.md"
               }
             }
           }
@@ -137,11 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "4637aa42740e1eee",
   "lastOpenFiles": [
+    "what-is-open-source.md",
+    "Untitled.md",
     "19-10-2022.md"
   ]
 }
