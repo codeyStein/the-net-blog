@@ -19,7 +19,7 @@ To work in a copy of an already-made *local* repository:
 `git clone <path/to/repository>`
 
 ## Staging Files
-The files that you stage are essentially the files that you're going to want to be in the commit (which we will talk about soon). You can stage a file by using `git add <file-name>` or use `git add --all if you want to add all files to the stage. But I would add all the files to the stage manually to avoid anything bad.
+The files that you stage are essentially the files that you're going to want to be in the commit (which we will talk about soon). You can stage a file by using `git add <file-name>` or use `git add --all` if you want to add all files to the stage. But I would add all the files to the stage manually to avoid anything bad.
 
 
 ## Committing in Git
