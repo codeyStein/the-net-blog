@@ -7,7 +7,13 @@ draft = true
 +++
 ![Get Started With Git, A Must For Developers](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xi3b5rtwyzxlockaunuv.png)
 Git is an absolute MUST, that every developer should know how to use. It makes you a lot more productive and of course has version control, which can save you a ton of time and other problems. Actually getting started and understanding Git for the first time might not be too easy, so today I'll just be showing you some basic commands.
-<!--more-->
+
+## Table Of Contents
+1. [Repository Basics](#repository-basics)
+2. [Staging Files](#staging-files)
+3. [Comitting in Git](#comitting-in-git)
+4. [Pull Reqests](#pull-requests)
+5. [Conclusion](#conclusion)
 
 ## Repository Basics
 A repository is a project, using the terminal you can create a repository by first going into the directory in which you want to start the repository in (using `cd <directory>`) and then typing `git init <project-name>`
@@ -57,9 +63,8 @@ Pull requests are made when the commits are ready to be merged from one branch t
 You might start to notice how Git can be useful (but maybe a little overwhelmed too), you can check out their very good docs if you'd like to go a little more in-depth into this topic.
 ![Git Meme](https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif)
 
-I appreciate you spending your time reading this post, if you'd like to read more here you go:
-
-[🔥  What Is Open-source? A Simple Introduction](http://localhost:1313/post/what-is-open-source/)
+I appreciate you spending your time reading this post, if you'd like to read more here you go:k
+[🔥  What Is Open-source? A Simple Introduction](http://the-net-blog.netlify.app/post/what-is-open-source/)
 
 [🏠  Home Page](https://the-net-blog.netlify.app/)
 
