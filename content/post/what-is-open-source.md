@@ -6,7 +6,6 @@ tags = ['open-source', 'explained']
 draft = false
 +++
 
-![What Is Open-Source A Simple Introduction](https://res.cloudinary.com/practicaldev/image/fetch/s--hU0iTueZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/trvbkfz4x1qoutdh65zm.png)
 Open-source is a very important topic that every software engineer should know about. By the end of reading this post, you'll know what the popular term open-source means, potentially start using open-source software and understand the importance of open-source.
 <!--more-->
 
