@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5801a66e242ded22",
@@ -140,6 +139,7 @@
   "active": "4637aa42740e1eee",
   "lastOpenFiles": [
     "what-is-open-source.md",
+    "get-started-with-git.md",
     "Untitled.md",
     "19-10-2022.md"
   ]
