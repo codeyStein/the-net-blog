@@ -13,7 +13,7 @@ languageCode = "en"           # For RSS, view https://www.rssboard.org/rss-langu
 defaultContentLanguage = "en" # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
-paginate = 10
+paginate = 5
 
 # googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
 
@@ -56,7 +56,7 @@ showReadTime = true
 showLicenseInFooter = false
 
 # License at the end of each post
-showLicense = true
+showLicense = false
 showToc = false
 
 # Copyright
