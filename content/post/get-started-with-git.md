@@ -5,7 +5,6 @@ date = 2022-11-01T07:54:04-06:00
 tags = ['tools', 'productivity', 'open-source']
 draft = false
 +++
-![Get Started With Git, A Must For Developers](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xi3b5rtwyzxlockaunuv.png)
 Git is an absolute MUST, that every developer should know how to use. It makes you a lot more productive and of course has version control, which can save you a ton of time and other problems. Actually getting started and understanding Git for the first time might not be too easy, so today I'll just be showing you some basic commands.
 <!--more-->
 
