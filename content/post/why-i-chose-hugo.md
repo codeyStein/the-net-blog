@@ -2,7 +2,7 @@
 title = "Why I chose Hugo (and why you should too)"
 description = "So if you didn't know already, this website was created with Hugo, a static site generator, in this article I'll share what my experience was, pros, cons, and if you should use Hugo too."
 date = 2022-10-19T17:04:07-06:00
-tags = ['hugo']
+tags = ['hugo', 'not-this-but-that']
 draft = false
 +++
 
