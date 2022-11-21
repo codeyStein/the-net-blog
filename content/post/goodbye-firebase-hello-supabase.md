@@ -37,3 +37,9 @@ The biggest difference between FireBase and SupaBase is probably how FireBase us
 ## Final Thoughts
 SupaBase is deffenetly worth checking out and giving out a try not only your next project, but if you'd really want to you can even try to migrate from FireBase to SupaBase on an existing project. They've basiclly got everything you'll need and offer them for a good price too.
 
+I appreciate you spending your time reading this post, if you'd like to read more here you go:
+
+[🔥 Five Free APIs you NEED for your next project - My Last Post](https://the-net-blog.netlify.app/post/five-free-apis-you-need-for-your-next-project/)
+
+[🏠  Home Page](https://the-net-blog.netlify.app/)
+
