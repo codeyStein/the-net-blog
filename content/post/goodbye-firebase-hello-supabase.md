@@ -3,7 +3,7 @@ title = "Goodbye Firebase Hello Supabase"
 description = "SupaBase is an open-source powerful alternative to FireBase, which offers a handful of tools aimed for web and app developers."
 date = 2022-11-19T19:43:35-06:00
 tags = ['database', 'tools', 'not-this-but-that']
-draft = true
+draft = false
 +++
 ![Goodbye Firebase, Hello SupaBase](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nuxzgibxeracj74wqeb.png)
 
