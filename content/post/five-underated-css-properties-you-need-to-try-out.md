@@ -1,6 +1,6 @@
 +++
 title = "Five Underated CSS Properties You NEED to Try Out!"
-description = ""
+description = "Helloooo! Today I'm gonna be talking about 5 CSS properties (or actually 3 properties, and 2 pseudo classes), that I think deserve more love."
 date = 2022-11-26T06:59:36-06:00
 tags = ['css', 'list']
 draft = false
