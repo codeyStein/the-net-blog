@@ -3,7 +3,7 @@ title = "Five Underated CSS Properties You NEED to Try Out!"
 description = ""
 date = 2022-11-26T06:59:36-06:00
 tags = ['css', 'list']
-draft = true
+draft = false
 +++
 ![5 underated CSS properties you NEED to try out!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01m0rum3ho9hve6thhwa.png)
 Helloooo! Today I'm gonna be talking about 5 CSS properties (or actually 3 properties, and 2 pseudo classes), that I think deserve more love.
