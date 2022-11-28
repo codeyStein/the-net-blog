@@ -5,10 +5,6 @@ date = 2022-11-19T19:43:35-06:00
 tags = ['database', 'tools', 'not-this-but-that']
 draft = false
 +++
-
-
-![Goodbye Firebase, Hello SupaBase](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nuxzgibxeracj74wqeb.png)
-
 Ok so we all know Firebase, a handful of tools aimed for app and web developers. Mainly used for their docuement-based database, their authentication using various social services or email and a realtime database. Supabase is a fairly new open-source alternative (unlike Firebase which is mantained by google), offer some similar tools for an afforable price too and with easy to understand and learn API.
 <!--more-->
 ## Table Of Contents
