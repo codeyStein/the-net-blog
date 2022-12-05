@@ -1,10 +1,14 @@
 +++
 title = "STOP! Use This Instead of Create React App"
-description = ""
+description = "In 2022, using create-react-app might not be greates, not because it's a bad tool, but because there are other better alternatives that offer a lot mroe and overall are just a lot more practical to use."
 date = 2022-12-03T13:03:08-06:00
 tags = ['not-this-but-that', 'react', 'tools']
 draft = true
 +++
+
+![STOP! Use This Instead Of Create React App](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8rc0frzo2q6liagcmtmg.png)
+In 2022, using `create-react-app` might not be the greatest, not because it's a bad tool, but because there are other alternatives that offer a lot more and overall are just a lot more practical to use, today I'll be showing you why you should stop using creacte-react-app, and some better alternatives to it too!
+<!--more-->
 
 ## Table Of Contents
 1. [What Is CRA?](#what-is-cra)
@@ -39,14 +43,14 @@ It is super easy to get started with Vite and there is really no hard learning c
 * Amazing preformance
 * Good for projects that can scale.
 
-it's just a must-try if you are building any type of dashboard, interactive UI, static websites, or even just single web pages.
+it's just a must-try if you are building any type of dashboard, interactive UI, static websites, or even just single web pages. A great example of how next is used is by looking at some famous companies like Netflix that have used it!
 
 ## Final Thoughts
-
+CRA is *not* practicalin 2022, there are wayyy better options that allow for even more features than CRA (and look good on a resume) and it isn't even that hard to learn all of these new technologies.
 
 I appreciate you spending your time reading this post, if you'd like to read more here you go:
 
-[🔥 ]()
+[🔥 Five Underated CSS Properties You NEED To Try Out!](https://the-net-blog.netlify.app/post/five-underated-css-properties-you-need-to-try-out/)
 
 [🏠  Home Page](https://the-net-blog.netlify.app/)
 
