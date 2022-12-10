@@ -6,7 +6,6 @@ tags = ['not-this-but-that', 'react', 'tools']
 draft = false
 +++
 
-![STOP! Use This Instead Of Create React App](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8rc0frzo2q6liagcmtmg.png)
 In 2022, using `create-react-app` might not be the greatest, not because it's a bad tool, but because there are other alternatives that offer a lot more and overall are just a lot more practical to use, today I'll be showing you why you should stop using creacte-react-app, and some better alternatives to it too!
 <!--more-->
 
