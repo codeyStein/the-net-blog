@@ -7,7 +7,7 @@ draft = false
 +++
 
 ![Five USEFUL Array Methods You Might NOT know!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/68li1z703o4aermf7ur2.png)
-Welcome! I don't want to spend too much time in the introduciton this time, but today I will (hopefully) teach you and show you technicly six array methods that you probably didn't know!
+Welcome! I don't want to spend too much time in the introduction this time, but today I will (hopefully) teach you and show you technically six array methods that you probably didn't know!
 <!--more-->
 
 ## Table Of Contents
@@ -19,7 +19,7 @@ Welcome! I don't want to spend too much time in the introduciton this time, but 
 5. [Conclusion](#conclusion)
 
 ## concat()
-The `concat` array method returns a new array populated with two or more arrays merged together. It does not alter any existing arrays, but rather creates a new one.
+The `concat` array method returns a new array populated with two or more arrays merged. It does not alter any existing arrays, but rather creates a new one.
 
 Example:
 ```
@@ -32,7 +32,7 @@ const foobar = foo.concat(bar);
 ```
 
 ## some()
-This array method tests wether or not at least one element in the array passes a test. It returns true if it finds at least one element that returns true in the provided function (callback function), else it returns false.
+This array method tests whether or not at least one element in the array passes a test. It returns true if it finds at least one element that returns true in the provided function (callback function), else it returns false.
 
 Example:
 ```
@@ -82,7 +82,7 @@ I'm not even gonna lie, I still find this one a bit confusing because of the syn
 
 syntax: `array.copyWithin(target, start, end)`
 
-_Note that the end and start perameters are not required and if not specified, will use the first or last elements of the array._
+_Note that the end and start parameters are not required and if not specified, will use the first or last elements of the array._
 
 Example:
 ```
@@ -92,7 +92,7 @@ console.log(foobar.copyWithin(2, 0, 2))
 ```
 
 ## Conclusion
-Did you know all of these? Because to be honest, I didn't either until I finished writing this arcitlce hahaha. But now that I do, I can think of plenty situations where these might come in useful.
+Did you know all of these? Because to be honest, I didn't either until I finished writing this article hahaha. But now that I do, I can think of plenty of situations where these might come in useful.
 
 I appreciate you spending your time reading this post, if you'd like to read more here you go:
 
