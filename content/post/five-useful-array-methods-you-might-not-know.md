@@ -96,6 +96,6 @@ Did you know all of these? Because to be honest, I didn't either until I finishe
 
 I appreciate you spending your time reading this post, if you'd like to read more here you go:
 
-[🔥 Five Underated CSS Properties You NEED To Try Out!](https://the-net-blog.netlify.app/post/five-underated-css-properties-you-need-to-try-out/)
+[🔥 STOP! Use this instead of create-react-app!](https://the-net-blog.netlify.app/post/stop-use-this-instead-of-create-react-app/)
 
 [🏠  Home Page](https://the-net-blog.netlify.app/)
