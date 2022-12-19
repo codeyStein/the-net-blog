@@ -6,7 +6,6 @@ tags = ['javascript', 'list']
 draft = false
 +++
 
-![Five USEFUL Array Methods You Might NOT know!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/68li1z703o4aermf7ur2.png)
 Welcome! I don't want to spend too much time in the introduction this time, but today I will (hopefully) teach you and show you technically six array methods that you probably didn't know!
 <!--more-->
 
