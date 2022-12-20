@@ -1,13 +1,13 @@
 +++
 title = "Five Time Saving React Packages You MUST Try"
-description = "React is a very powerful tool, but sometimes you might be finding yourself spending way too much time creating simple elements, that really shouldn't take that long. Today I'll be showing you five React libraries that save you tons!"
+description = "React is a powerful tool, but sometimes you might be find yourself spending way too much time creating simple elements, that really shouldn't take that long. Today I'll be showing you five React libraries that save you tons!"
 date = 2022-12-13T13:27:24-06:00
 tags = ['react', 'list', 'libraries']
 draft = false
 +++
 
 ![Five Time Saving React Packages You MUST Try!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggth0bopfb31m7i4zxjl.png)
-React is a very powerful tool, but sometimes you might be finding yourself spending way too much
+React is a powerful tool, but sometimes you might be find yourself spending way too much
 time creating simple elements, that really shouldn't take that long. Today I'll be showing you five
 React packages [(plus bonus)](#bonus-react-spinners-easy-loading-indicator-component) that save you tons!
 <!--more-->
@@ -23,9 +23,9 @@ React packages [(plus bonus)](#bonus-react-spinners-easy-loading-indicator-compo
 7. [Conclusion](#conclusion)
 
 ## react-icons - Library for the most famous icons
-Let's start with one that you probably already heard of or even used if you've been using React
-in your projects for a while. If you haven't already though, this is a MUST try. The pacakge we
-will be suing is react-icons, and it includes thousands of icons from the most famous providers
+Let's start with the one that you probably already heard of or even used if you've been using React
+in your projects for a while. If you haven't already, this is a MUST try. The package we
+will be using is react-icons, it includes thousands of icons from the most famous providers
 including FontAwesome, Feather Icons, and Material Design.
 
 Installation:
@@ -37,10 +37,10 @@ $ npm install react-icons --save
 $ yarn add react-icons
 ```
 
-[Their documentation include examples and well... documentation](https://react-icons.github.io/react-icons/)
+[Their documentation includes examples and well... documentation](https://react-icons.github.io/react-icons/)
 
 ## react-color - Color picker comopnent 
-This simple react pacakge includes multiple easy-to-use color picker components for your website.
+This simple react package includes multiple easy-to-use color picker components for your website.
 You will deffenetly find one that you will like as there are multiple options to choose from, or
 they even make it easy to create your own!
 
@@ -61,8 +61,8 @@ $ yarn add react-color
 
 ## react-toastify - React notifications made easy!
 I'm sure you've come across toast notifications at some point. But have you ever thought about
-adding them in your website? Well, react-toastify makes that extreemly easy and gives you a handful
-of props for costumisation too. But my favourite thing of this package so far, is their interactive
+adding them to your website? Well, react-toastify makes that extremely easy and gives you a handful
+of props for customization too. But my favorite thing about this package so far is its interactive
 playground.
 
 ![react-toastify - React notifications made easy!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xah493t8qmxgq2msqdql.png)
@@ -82,8 +82,8 @@ $ yarn add react-toastify
 
 
 ## react-datepicker - Simple package for a date picker component!
-A datepicker is something you will have to use at least in some point of your React journey. This
-simple, lightweigh package makes it easy to do just that!
+A date picker is something you will have to use at some point in your React journey. This
+simple, lightweight package makes it easy to do just that!
 
 ![react-datepicker - Simple package for a date picker component!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbkjgbaju01i203b688f.png)
 
@@ -102,7 +102,7 @@ $ yarn add react-datepicker
 
 # (BONUS) react-spinners - Easy loading indicator component
 I just had to include this one. I'm sure you've wondered at some point how some websites add these
-cool looking loading indicator to their website. They're not a _must have_ but deffenetly adds 
+cool-looking loading indicators to their website. They're not a _must-have_ but deffenetly adds 
 something that spices up your website just a little more.
 
 ![react-spinners - Easy loading indicator component](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ooz0x0m5o5516x29x38.png)
@@ -121,8 +121,8 @@ $ yarn add react-spinners
 [Documentation](https://github.com/davidhu2000/react-spinners)
 
 ## Conclusion
-As you probably noticied, these are all very simple components, but you'd be suprised to figure out
-how much time you an waste adding these to your website.
+As you probably noticed, these are all simple components, but you'd be surprised to figure out
+how much time you can waste adding these to your website.
 
 I appreciate you spending your time reading this post, if you'd like to read more here you go:
 
