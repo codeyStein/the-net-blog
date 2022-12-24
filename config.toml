@@ -13,7 +13,7 @@ languageCode = "en"           # For RSS, view https://www.rssboard.org/rss-langu
 defaultContentLanguage = "en" # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
-paginate = 5
+paginate = 6
 
 # googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
 
@@ -33,7 +33,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 [params]
 author = "CodeyStein"                # You can also set author in post front matter individually
 subTitle = "The Net Blog - The only blog you'll need for web/app development & design!"
-defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
+defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
 sourceURL = "https://github.io/codeystein/the-net-blog"
