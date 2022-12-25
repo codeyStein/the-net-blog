@@ -6,7 +6,6 @@ tags = ['react', 'list', 'libraries']
 draft = false
 +++
 
-![Five Time Saving React Packages You MUST Try!](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggth0bopfb31m7i4zxjl.png)
 React is a powerful tool, but sometimes you might be find yourself spending way too much
 time creating simple elements, that really shouldn't take that long. Today I'll be showing you five
 React packages [(plus bonus)](#bonus-react-spinners-easy-loading-indicator-component) that save you tons!
