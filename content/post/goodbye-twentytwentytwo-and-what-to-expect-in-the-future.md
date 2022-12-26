@@ -1,11 +1,10 @@
 +++
-title = "Goodbye 2022 and What to Expect in the Future"
+title = "Goodbye Twenty-twenty-two and What to Expect in the Future"
 description = "Man, a LOT has happend this year. And first of all, I want to say that I owe it all to you, thank you for the continius support that keeps me writing these articles. I had a lot of fun during these two months (I know, it feels like a lot more)."
 date = 2022-12-26T11:34:27-06:00
 tags = ['important']
 draft = false
 +++
-
 ![Goodbye 2022, and What to Expect in the Future](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqks4l6xhgk1zjfx58c7.png)
 Man, a LOT has happend this year. And first of all, I want to say that I owe it all to you, thank you for the continius support that keeps me writing these articles. I had a lot of fun during these two months (I know, it feels like a lot more).
 <!--more-->
@@ -56,3 +55,4 @@ I appreciate you spending your time reading this post, if you'd like to read mor
 
 ### Related Posts
 [⭐️ STOP! Use this instead of create-react-app](https://the-net-blog.netlify.app/post/what-is-open-source/)
+
