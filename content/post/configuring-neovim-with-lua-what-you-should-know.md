@@ -3,7 +3,7 @@ title = "Configuring Neovim With Lua What You Should Know"
 description = ""
 date = 2023-01-02T17:02:14-06:00
 tags = ['productivity', 'tools', 'vim', 'neovim', 'lua', 'not-this-but-that']
-draft = false
+draft = true
 +++
 
 ## Table Of Contents
