@@ -1,7 +1,7 @@
 +++
 title = "STOP! Use This Instead of Create React App"
 description = "In 2022, using create-react-app might not be greates, not because it's a bad tool, but because there are other better alternatives that offer a lot mroe and overall are just a lot more practical to use."
-date = 2022-12-03T13:03:08-06:00
+date = 2022-12-05T13:03:08-06:00
 tags = ['not-this-but-that', 'react', 'tools']
 draft = false
 +++

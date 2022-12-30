@@ -1,7 +1,7 @@
 +++
 title = "Five Useful Array Methods You Might Not Know"
 description = "Welcome! I don't want to spend too much time in the introduciton this time, but today I will (hopefully) teach you and show you technicly six array methods that you probably didn't know!"
-date = 2022-12-10T07:09:13-06:00
+date = 2022-12-12T07:09:13-06:00
 tags = ['javascript', 'list']
 draft = false
 +++
