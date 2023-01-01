@@ -6,10 +6,9 @@ tags = ['important']
 draft = false
 +++
 
-![Goodbye 2022, and What to Expect in the Future](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqks4l6xhgk1zjfx58c7.png)
 Man, a LOT has happend this year. And first of all, I want to say that I owe it all to you, thank you for the continius support that keeps me writing these articles. I had a lot of fun during these two months (I know, it feels like a lot more).
 <!--more-->
-![Thank You](https://media.giphy.com/media/po3NDGWuAE33qmWqe3/giphy.gif)
+![Goodbye 2022, and What to Expect in the Future](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqks4l6xhgk1zjfx58c7.png)
 
 ## Table Of Contents
 1. [Some Statistics](#some-statistics)
@@ -26,6 +25,7 @@ Before we start, I know some of you want to see some real numbers, so here you g
 * And **96** page views on [my blog page](https://the-net-blog.netlify.app/),
 * And **2391** post views on [dev.to](https://dev.to/codeystein)
 
+![Thank You](https://media.giphy.com/media/po3NDGWuAE33qmWqe3/giphy.gif)
 
 ## My Best Performing Articles
 ### 3. [Why I chose Hugo (and why you should too)](https://the-net-blog.netlify.app/post/why-i-chose-hugo/)
