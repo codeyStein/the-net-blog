@@ -1,12 +1,13 @@
 +++
 title = "Configuring Neovim With Lua: What You Should Know"
-description = "NeoVim is such an amazing and powerful tool. It's insanely fast, flexible, and clean. In today's article, I'm going to show you how to get started on making your neovim config!"
+description = "NeoVim is such an amazing and powerful tool. It's insanely fast, and flexible Today, I'm going to show you how to get started on making your neovim config!"
 date = 2023-01-02T17:02:14-06:00
 tags = ['productivity', 'tools', 'vim', 'neovim', 'lua', 'not-this-but-that']
 draft = false
 +++
 
 ![Configuring Neovim With Lua: What You Should Know](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tz4474zp86nwj5tg9lwd.png)
+# Configuring Neovim With Lua: What You Should Know
 NeoVim is such an amazing and powerful tool. It's insanely fast, flexible, and clean. I honestly can't
 believe I used to use vimscript to set it up, but anyways, in today's article, I'm going to show you how to
 start making your neovim config! But before we continue though, I'd like to give a big shout-out to
