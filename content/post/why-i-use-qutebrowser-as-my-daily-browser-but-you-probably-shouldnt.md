@@ -1,14 +1,19 @@
 +++
 title = "Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't)"
 description = "Qutebrowser is amazing, and my favourite every-day browser, but like any other browser, it has its pros and cons, so is it the right browser for you?"
-date = 2023-01-09T20:46:30-06:00
+images = "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qx5egewjq5b4pra46csm.png"
+date = 2023-01-09T03:00:30-06:00
 tags = ['tools', 'browsers', 'productivity', 'not-this-but-that']
-draft = true
+draft = false
 +++
 
+![Why I use Qutebrowser as my Daily Browser (but you probably shouldn't)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qx5egewjq5b4pra46csm.png)
 Qutebrowser is an amazing and very unique browser. The modern browser today is filled with unnecessary
 features, and qutebrowser helps eliminates that and makes browsing the web... Just browsing
 the web! Like any other browser though, Qutebrowser has its cons and trade-offs.
+
+*Attribution for [crown asset](https://free3dicon.com/) used in thumbnail.*
+<!--more-->
 
 # Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) 
 
@@ -46,6 +51,7 @@ in a browser, I don't need a fancy start page filled with distracting ads and bl
 And the good thing is, if you need them, then Qutebrowser makes it easy to add them!
 
 > **RELATED:** [⭐️  Configuring NeoVim with Lua: What You Should Know](https://the-net-blog.netlify.app/post/configuring-neovim-with-lua-what-you-should-know/)
+
 ## What's Wrong With Qutebrowser?
 So I've talked about how great Qutebrowser is for me so far, but would I recommend it? It depends...
 
@@ -66,9 +72,9 @@ password managers, some weird ad block problems, and videos... are just a pain, 
 much of a problem with me since I don't watch YouTube on my laptop, but don't expect to get
 the smoothest experience when watching videos.
 
-# Final Thoughts & Conclusion
-Qutebrowser is a great browser and I don't see myself going back to another browser anytime soon,
-but it's not for everyone, and it of course has its own cons.
+## Final Thoughts & Conclusion
+Qutebrowser is a great browser, and I don't see myself going back to another browser anytime soon,
+but it's not for everyone, and it (like any other browser) of course has its cons.
 
 I appreciate you spending your time reading this post, if you'd like to read more, here you go:
 
