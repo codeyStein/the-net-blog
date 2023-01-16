@@ -7,15 +7,14 @@ tags = ['tools', 'browsers', 'productivity', 'not-this-but-that']
 draft = false
 +++
 
-![Why I use Qutebrowser as my Daily Browser (but you probably shouldn't)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qx5egewjq5b4pra46csm.png)
 Qutebrowser is an amazing and very unique browser. The modern browser today is filled with unnecessary
 features, and qutebrowser helps eliminates that and makes browsing the web... Just browsing
 the web! Like any other browser though, Qutebrowser has its cons and trade-offs.
-
-*Attribution for [crown asset](https://free3dicon.com/) used in thumbnail.*
 <!--more-->
 
 # Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) 
+![Why I use Qutebrowser as my Daily Browser (but you probably shouldn't)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qx5egewjq5b4pra46csm.png)
+*Attribution for [crown asset](https://free3dicon.com/) used in thumbnail.*
 
 ## Table of Contents
 1. [What is Qutebrowser?](#what-is-qutebrowser)
