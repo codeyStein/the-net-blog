@@ -79,5 +79,5 @@ I appreciate you spending your time reading this post, if you'd like to read mor
 
 [🏠  Home Page](https://the-net-blog.netlify.app/)
 
-[🔥  Configuring NeoVim with Lua: What You Should Know](https://the-net-blog.netlify.app/post/configuring-neovim-with-lua-what-you-should-know/)
+[🔥 Why I Use Qutebrowser As My Daily Browser (But You Probably Shouldn't)](https://the-net-blog.netlify.app/post/why-i-use-qutebrowser-as-my-daily-browser-but-you-probably-shouldnt/)
 
