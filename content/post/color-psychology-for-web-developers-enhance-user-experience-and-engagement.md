@@ -1,7 +1,7 @@
 +++
 title = "Color Psychology for Web Developers Enhance User Experience and Engagement"
 description = "Color psychology is a powerful tool for developers and designers alike. Understanding the fundamentals of color psychology is essential for creating effective designs and have a better user experience."
-date = 2023-09-04T09:54:24-06:00
+date = 2023-04-09T09:54:24-06:00
 tags = ['css', 'design']
 draft = false
 +++
