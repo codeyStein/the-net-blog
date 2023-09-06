@@ -7,7 +7,9 @@ draft = false
 +++
 
 ![Color Psychology for Web Developers Enhance User Experience and Engagement](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eksov5u6vexwyv2a6ake.png)
-
+Color psychology is a powerful tool for developers and designers alike. Understanding the fundamentals of color psychology is essential for
+creating effective designs and have a better user experience.<!--more--> If you find useful feel free to bookmark it in you browser; this way,
+you can go back to it anytime you might need to create a new design. And also share it with someone who might find this useful or interesting!
 
 ## Table Of Contents
 1. [Introduction](#introduction)
