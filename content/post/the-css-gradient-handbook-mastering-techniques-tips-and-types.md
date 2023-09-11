@@ -1,7 +1,7 @@
 +++
 title = "The CSS Handbook: Mastering Techniques, Tips, and Types"
 description = "CSS gradients, a topic which doesn't seem of much importance at once. There is so much you can do with gradients in CSS I am honestly blown away. Before writing this article the only thing I knew was how to create basic two-colored gradients, (I sometimes forgot how to do that too), but now I realize how much more CSS gradients have to offer!"
-date = 2023-09-11T16:45:41-06:00
+date = 2023-09-11T03:00:41-06:00
 tags = ['css', 'design']
 draft = false
 +++
