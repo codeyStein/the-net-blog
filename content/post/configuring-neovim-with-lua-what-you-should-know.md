@@ -6,13 +6,13 @@ tags = ['productivity', 'tools', 'vim', 'neovim', 'lua', 'not-this-but-that']
 draft = false
 +++
 
+![Configuring Neovim With Lua: What You Should Know](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tz4474zp86nwj5tg9lwd.png)
 NeoVim is such an amazing and powerful tool. It's insanely fast, flexible, and clean. I honestly can't
 believe I used to use vimscript to set it up, but anyways, in today's article, I'm going to show you how to
 start making your neovim config! But before we continue though, I'd like to give a big shout-out to
 [Chris@machine's NeoVim from Scratch series](https://github.com/LunarVim/Neovim-from-scratch), and
 [ThePrimeagen](https://github.com/ThePrimeagen/init.lua), since a lot of my config is based on theirs.
 <!--more-->
-![Configuring Neovim With Lua: What You Should Know](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tz4474zp86nwj5tg9lwd.png)
 # Configuring Neovim With Lua: What You Should Know
 
 ## Table Of Contents
